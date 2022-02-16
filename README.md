@@ -8,7 +8,8 @@ CHEETSHEETS
 
 ```https://www.codecademy.com/learn/bash-scripting/modules/bash-scripting/cheatsheet```
 
-
+[ TAILWINDCSS | ===> SNIPPETS |  ]
+`` `https://flowbite.com/tools/tailwind-cheat-sheet/ ```
 
 [ JAVASCRIPT | ===> SNIPPETS | 
   [
@@ -24,6 +25,9 @@ CHEETSHEETS
   ],
   
   [ JAVASCRIPT FRAMEWORKS | Remix ===> SNIPPETS | 
+     {
+      React Real World | https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-arrays/cheatsheet
+    },
     {
       Remix | https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-arrays/cheatsheet
     },
@@ -34,9 +38,8 @@ CHEETSHEETS
     Node | https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet
     },
     
-    https://dockerlabs.collabnix.com/docker/cheatsheet/
-]
-
+    NEXT.JS NEXT | { PAGE RENDERING GUIDE === ``` https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering/ ```
+    
 ``` ```
 
 [ DOCKER | ===> SNIPPETS |  ]
